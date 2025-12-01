@@ -53,51 +53,41 @@ I am just an introverted programmer who prefers to do things in an old-school fa
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
 </p>
-
-
-<h2 align="center">🚀 Frontend</h2>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="55" height="55"/>
+
+  <!-- Frontend -->
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="55" height="55" alt="React"/>
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="55" height="55" alt="Next.js"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="55" height="55" alt="TypeScript"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55" height="55" alt="Tailwind"/>
+
+  <!-- Backend -->
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="55" height="55" alt="Node.js"/>
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="55" height="55" alt="Express"/>
+  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="55" height="55" alt="NestJS"/>
+
+  <!-- Databases -->
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="45" height="55" alt="MongoDB"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="45" height="55" alt="PostgreSQL"/>
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="50" height="55" alt="Redis"/>
+
+  <!-- DevOps -->
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="60" height="60" alt="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="55" height="55" alt="Kubernetes"/>
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="55" height="55" alt="Nginx"/>
+
+  <!-- Caddy (working icon) -->
+  <img src="https://caddyserver.com/resources/images/favicon.svg" width="55" height="55" alt="Caddy"/>
+
+  <!-- Cloud -->
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="55" height="55" alt="AWS"/>
+
+  <!-- Realtime -->
+  <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" width="55" height="55" alt="Socket.io"/>
+  <img src="https://www.vectorlogo.zone/logos/webrtc/webrtc-icon.svg" width="55" height="55" alt="WebRTC"/>
+
+  <!-- Tools -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55" height="55" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="55" height="55" alt="GitHub"/>
+
 </p>
-
-<h2 align="center">🛠 Backend</h2>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS" width="55" height="55"/>
-</p>
-
-<h2 align="center">💾 Databases</h2>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="45" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="45" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="50" height="55"/>
-</p>
-
-<h2 align="center">⚙️ DevOps & Cloud</h2>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/caddyserver/caddyserver-icon.svg" alt="Caddy" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="55" height="55"/>
-</p>
-
-<h2 align="center">🔗 Realtime / Protocols</h2>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="Socket.io" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/webrtc/webrtc-icon.svg" alt="WebRTC" width="55" height="55"/>
-</p>
-
-<h2 align="center">🧰 Tools</h2>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="55" height="55"/>
-</p>
-
-
-
-
