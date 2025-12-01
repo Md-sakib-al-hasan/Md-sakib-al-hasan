@@ -40,19 +40,6 @@ I am just an introverted programmer who prefers to do things in an old-school fa
 
 
 
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-</p>
 
 <p align="center">
 
@@ -77,14 +64,12 @@ I am just an introverted programmer who prefers to do things in an old-school fa
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes"/>
   <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" height="40" alt="Nginx"/>
 
-  <!-- Caddy (Working SVG icon) -->
-  <img src="https://raw.githubusercontent.com/caddyserver/website/master/src/assets/images/logo.svg" width="40" height="40" alt="Caddy"/>
+
 
   <!-- Cloud -->
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40" alt="AWS"/>
 
-  <!-- Realtime -->
-  <img src="https://raw.githubusercontent.com/webrtc/webrtc-org/main/src/images/webrtc-logo.svg" width="40" height="40" alt="WebRTC"/>
+  
   <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" width="40" height="40" alt="Socket.io"/>
 
   <!-- Tools -->
