@@ -1,46 +1,130 @@
-# 👋 Md Sakib Al Hasan
+# Md Sakib Al Hasan
 
-<div align="center">
+### Backend & System Design Engineer
 
-# Backend Engineer · System Design · Full-Stack Development
+**TypeScript · Node.js · NestJS · PostgreSQL · Redis · Docker · Kubernetes · AWS**
 
-### Designing reliable APIs, scalable backend systems, distributed workflows & production infrastructure
+I’m a backend and system-design focused engineer building scalable APIs, distributed processing systems, real-time services, and production infrastructure.
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+My work focuses on turning product requirements into reliable backend architecture — from API boundaries and database design to asynchronous processing, caching, deployment, and CI/CD.
 
-<p>
-  <a href="mailto:md.sakib.al.hasan.programmer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Md-sakib-al-hasan">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/md-sakib-al-hasan-46942126b">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-</div>
+> **Design for reliability. Build for scale. Keep the system understandable.**
 
 ---
 
-# 🧠 Engineering Identity
+## 🚀 What I Do
 
-> **Backend Engineer who thinks in systems, not just endpoints.**
+- 🏗️ Design scalable backend architectures
+- ⚡ Build high-performance REST APIs
+- 🔄 Develop asynchronous and event-driven systems
+- 🗄️ Design relational and NoSQL data systems
+- 🔐 Implement authentication, authorization, and RBAC
+- 📡 Build real-time systems with WebSockets
+- 🐳 Containerize applications with Docker
+- ☸️ Deploy and scale services with Kubernetes
+- ☁️ Work with AWS infrastructure
+- 🔁 Build CI/CD pipelines and automated deployments
 
-I build backend systems using **TypeScript, Node.js and NestJS**, with a strong interest in **system design, distributed systems, database architecture, asynchronous processing and production infrastructure**.
+---
 
-My focus is not only:
+# 🏭 Production Engineering
+
+My backend work spans API development, database systems, asynchronous workloads, real-time communication, and production infrastructure.
+
+### Backend
+
+- TypeScript
+- Node.js
+- NestJS
+- Express.js
+- REST APIs
+- Socket.IO
+- WebSockets
+
+### Data & Messaging
+
+- PostgreSQL
+- MongoDB
+- Redis
+- Prisma
+- RabbitMQ
+- Bull Queue
+- Background Workers
+- Scheduled Jobs
+
+### Infrastructure
+
+- Docker
+- Kubernetes
+- AWS
+- Nginx
+- Caddy
+- GitHub Actions
+- CI/CD
+
+### Security
+
+- JWT Authentication
+- Role-Based Access Control
+- Authorization
+- Input Validation
+- Rate Limiting
+- Secure API Design
+
+---
+
+# 🧠 System Design
+
+I’m particularly interested in designing systems around:
+
+| Area | Focus |
+|---|---|
+| 🏗️ Architecture | Modular systems, microservices, service boundaries |
+| 🌐 Scalability | Horizontal scaling, load balancing, workload isolation |
+| 🔄 Distributed Systems | Queues, workers, asynchronous processing |
+| 🗄️ Data Systems | PostgreSQL, MongoDB, transactions, indexing |
+| ⚡ Performance | Redis caching, query optimization, background processing |
+| 🛡️ Reliability | Retry, idempotency, failover, fault isolation |
+| 🔐 Security | Authentication, authorization, RBAC, rate limiting |
+| 🚀 Infrastructure | Docker, Kubernetes, AWS, CI/CD |
+
+---
+
+# 🏗️ Architecture
 
 ```text
-"Can I build this API?"
+                    ┌─────────────────────┐
+                    │       Client        │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │    Load Balancer    │
+                    └──────────┬──────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              ▼                ▼                ▼
+        ┌──────────┐     ┌──────────┐     ┌──────────┐
+        │ API #1   │     │ API #2   │     │ API #3   │
+        └────┬─────┘     └────┬─────┘     └────┬─────┘
+             │                │                │
+             └────────────────┼────────────────┘
+                              │
+                ┌─────────────┴─────────────┐
+                │                           │
+                ▼                           ▼
+         ┌─────────────┐             ┌─────────────┐
+         │    Redis    │             │ Message     │
+         │    Cache    │             │ Queue       │
+         └─────────────┘             │ RabbitMQ    │
+                                     └──────┬──────┘
+                                            │
+                                     ┌──────▼──────┐
+                                     │   Workers   │
+                                     └──────┬──────┘
+                                            │
+                              ┌─────────────┴─────────────┐
+                              ▼                           ▼
+                       ┌────────────┐              ┌────────────┐
+                       │ PostgreSQL │              │  MongoDB   │
+                       └────────────┘              └────────────┘
