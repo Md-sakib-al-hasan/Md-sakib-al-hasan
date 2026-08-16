@@ -1,79 +1,390 @@
-# 💫 About Me:
-I am just an introverted programmer who prefers to do things in an old-school fashion. <br>I took this journey to be an evergreen programmer and hope I will reach that tier.
+# 👋 Md Sakib Al Hasan
 
+### Backend Engineer · TypeScript · Node.js · NestJS · PostgreSQL
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sakib-al-hasan-46942126b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mdsakibalhasanprogrammer1@gmail.com) 
+Building reliable backend systems, scalable APIs, real-time applications, and production-ready infrastructure.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-0E8A16.svg?style=for-the-badge&logo=caddy&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Md-sakib-al-hasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=Md-sakib-al-hasan&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-sakib-al-hasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Md-sakib-al-hasan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+I enjoy understanding how systems work beneath the surface — from API architecture and database design to caching, authentication, real-time communication, CI/CD, and deployment.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arafat2020&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
 
+I'm a backend-focused software engineer passionate about building clean, maintainable, and scalable software.
 
+My primary ecosystem is **TypeScript + Node.js**, with a strong focus on **NestJS, PostgreSQL, Redis, REST APIs, WebSockets, Docker, and CI/CD**.
 
+### What I care about
 
+* 🏗️ Clean & maintainable architecture
+* 🔐 Authentication & authorization
+* ⚡ High-performance APIs
+* 🗄️ Database design & optimization
+* 🔄 Caching & distributed systems
+* 🔌 Real-time applications
+* 🐳 Containerized applications
+* 🚀 CI/CD & production deployment
+* 📊 Logging, monitoring & debugging
 
+> **Build it simple. Make it reliable. Scale when necessary.**
 
+---
 
+# ⚙️ Core Engineering
 
-<p align="center">
+```text
+Backend
+├── REST APIs
+├── WebSockets
+├── Authentication
+├── Authorization
+├── Validation
+├── Error Handling
+└── Event-driven Architecture
 
-  <!-- Frontend -->
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40" alt="React"/>
-  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="40" height="40" alt="Next.js"/>
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind"/>
+Architecture
+├── Modular Architecture
+├── Layered Architecture
+├── Service / Repository Pattern
+├── Dependency Injection
+└── Scalable API Design
 
-  <!-- Backend -->
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40" height="40" alt="Express"/>
-  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="40" height="40" alt="NestJS"/>
+Database
+├── PostgreSQL
+├── MongoDB
+├── Redis
+├── Prisma
+└── SQLite
 
-  <!-- Database -->
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="35" height="40" alt="MongoDB"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="35" height="40" alt="PostgreSQL"/>
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" height="40" alt="Redis"/>
+Infrastructure
+├── Docker
+├── Nginx
+├── Caddy
+├── GitHub Actions
+├── AWS
+└── Kubernetes
+```
 
-  <!-- DevOps -->
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes"/>
-  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" height="40" alt="Nginx"/>
+---
 
+# 🛠️ Technology Stack
 
+### 🔴 Backend
 
-  <!-- Cloud -->
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40" alt="AWS"/>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socket.io\&logoColor=white)
 
-  
-  <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" width="40" height="40" alt="Socket.io"/>
+### 🗄️ Database & Storage
 
-  <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="GitHub"/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
 
-</p>
+### 🟢 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+
+### ☁️ DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-0E8A16?style=for-the-badge\&logo=caddy\&logoColor=white)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+---
+
+# 🏗️ What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Secure Backend Systems
+
+* JWT Authentication
+* Refresh Tokens
+* Role-Based Access Control
+* OAuth
+* Password Hashing
+* API Validation
+* Security Middleware
+
+</td>
+
+<td width="50%">
+
+### ⚡ Real-Time Applications
+
+* WebSockets
+* Socket.IO
+* WebRTC
+* Redis
+* Event-driven Architecture
+* Real-time Notifications
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🗄️ Data-Driven Systems
+
+* PostgreSQL
+* MongoDB
+* Redis
+* Prisma
+* Database Relationships
+* Indexing
+* Transactions
+* Query Optimization
+
+</td>
+
+<td width="50%">
+
+### 🚀 Production Infrastructure
+
+* Docker
+* Nginx
+* Caddy
+* GitHub Actions
+* AWS
+* Kubernetes
+* CI/CD Pipelines
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔄 CI/CD & Automation
+
+I believe deployment should be predictable, repeatable, and automated.
+
+```text
+Developer
+    │
+    ▼
+   Git
+    │
+    ▼
+  GitHub
+    │
+    ▼
+GitHub Actions
+    │
+    ├── Lint
+    ├── Type Check
+    ├── Tests
+    ├── Build
+    ├── Docker Build
+    │
+    ▼
+ Deployment
+    │
+    ├── Staging
+    │
+    ▼
+ Production
+```
+
+### Typical Pipeline
+
+```text
+Pull Request
+     ↓
+Install Dependencies
+     ↓
+Lint
+     ↓
+Type Check
+     ↓
+Run Tests
+     ↓
+Build Application
+     ↓
+Build Docker Image
+     ↓
+Deploy
+```
+
+---
+
+# 🧩 Backend Architecture
+
+```text
+                    ┌─────────────────┐
+                    │     Client      │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │   API Gateway   │
+                    └────────┬────────┘
+                             │
+                    ┌────────▼────────┐
+                    │   Controllers   │
+                    └────────┬────────┘
+                             │
+                    ┌────────▼────────┐
+                    │    Services     │
+                    └────────┬────────┘
+                             │
+              ┌──────────────┼──────────────┐
+              ▼              ▼              ▼
+        ┌──────────┐   ┌──────────┐   ┌──────────┐
+        │PostgreSQL│   │  Redis   │   │ MongoDB  │
+        └──────────┘   └──────────┘   └──────────┘
+```
+
+---
+
+# 🚀 Featured Projects
+
+## 🟢 Eventlyze
+
+A real-time event management platform focused on event management, secure participation, and real-time communication.
+
+**Technology:**
+`NestJS` `TypeScript` `PostgreSQL` `Redis` `Socket.IO` `React`
+
+---
+
+## 🔵 Bicycle Backend
+
+A backend-focused application built with TypeScript and modern Node.js architecture.
+
+**Technology:**
+`TypeScript` `Node.js` `PostgreSQL` `Prisma` `Docker`
+
+---
+
+## 📂 More Projects
+
+I'm continuously building and experimenting with backend systems, APIs, real-time applications, and infrastructure.
+
+👉 Explore my repositories below to see what I'm currently building.
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Md-sakib-al-hasan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-sakib-al-hasan&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Md-sakib-al-hasan&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Md-sakib-al-hasan&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Sakib's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Md-sakib-al-hasan\&theme=github-compact\&hide_border=true)](https://github.com/Md-sakib-al-hasan)
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Md-sakib-al-hasan/Md-sakib-al-hasan/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 🧠 Engineering Principles
+
+```text
+01  Understand the problem before writing code.
+
+02  Prefer simple architecture over unnecessary complexity.
+
+03  Write code that another developer can understand.
+
+04  Design APIs with consistency and predictability.
+
+05  Treat databases as part of application architecture.
+
+06  Automate repetitive work.
+
+07  Measure before optimizing.
+
+08  Security is a requirement, not a feature.
+
+09  Learn the fundamentals before the framework.
+
+10  Keep improving.
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/md-sakib-al-hasan-46942126b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mdsakibalhasanprogrammer1@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Backend · Systems · Infrastructure
+
+**Always learning. Always building.**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Md-sakib-al-hasan&style=for-the-badge&color=blueviolet"/>
+
+</div>
