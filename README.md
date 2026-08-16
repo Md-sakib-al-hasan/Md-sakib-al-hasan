@@ -1,91 +1,147 @@
 # 👋 Md Sakib Al Hasan
 
-### Backend Engineer · System Design · TypeScript · Node.js · NestJS
+### Backend Engineer · System Design · TypeScript · Node.js · NestJS · Python · PostgreSQL · Docker · Kubernetes
 
-Building reliable backend systems, scalable APIs, real-time applications, distributed services, and production-ready infrastructure.
+Building reliable backend systems, scalable APIs, distributed services, real-time applications, and production-ready infrastructure.
 
-I enjoy understanding how systems work beneath the surface — from API architecture and database design to caching, authentication, real-time communication, asynchronous processing, CI/CD, cloud infrastructure, and production deployment.
+I specialize in **TypeScript, Node.js, NestJS, Python, PostgreSQL, MongoDB, Redis, REST APIs, WebSockets, RabbitMQ, Docker, Kubernetes, AWS, and CI/CD**.
+
+I enjoy designing systems from the inside out — from **API architecture and database design to asynchronous processing, caching, messaging, authentication, scalability, load balancing, CI/CD, and production deployment**.
 
 ---
 
 ## 🧠 About Me
 
-I'm a backend-focused software engineer passionate about building clean, maintainable, scalable, and reliable software systems.
+I'm a backend-focused software engineer passionate about **backend architecture, system design, distributed systems, database engineering, and production infrastructure**.
 
-My primary ecosystem is **TypeScript + Node.js**, with a strong focus on **NestJS, Express.js, PostgreSQL, MongoDB, Prisma, Redis, REST APIs, WebSockets, Docker, Kubernetes, AWS, RabbitMQ, Bull Queue, and CI/CD**.
+My primary backend ecosystem includes:
 
-I enjoy solving backend and system-level problems such as:
+**TypeScript · Node.js · NestJS · Express.js · Python · PostgreSQL · MongoDB · Prisma · Redis**
 
-- 🏗️ Scalable backend architecture
-- 🔐 Authentication & authorization
-- ⚡ High-performance APIs
-- 🗄️ Database design & optimization
-- 🔄 Asynchronous & distributed processing
-- 📨 Message queues & background workers
-- 🔌 Real-time applications
+For infrastructure and scalable systems:
+
+**Docker · Kubernetes · AWS · RabbitMQ · Bull Queue · CI/CD · Load Balancing**
+
+### What I Build
+
+- 🏗️ Scalable backend architectures
+- ⚡ High-performance REST APIs
+- 🔐 Authentication & authorization systems
+- 🗄️ Database-driven applications
+- 🔄 Distributed & asynchronous processing
+- 📨 Message queue systems
+- 📡 Real-time applications
+- ⚖️ Load-balanced services
 - 🐳 Containerized applications
 - ☁️ Cloud infrastructure
-- 🚀 CI/CD & automated deployment
-- 📊 Logging, monitoring & debugging
-- ⚖️ Load balancing & horizontal scaling
+- 🚀 CI/CD pipelines
+- 📊 Production-ready systems
 
 > **Build it simple. Make it reliable. Scale when necessary.**
 
 ---
 
-# ⚙️ Core Engineering
+# 🚀 Featured Projects
+
+## 🟣 Theta Analyze — B2B SaaS Investment & Project Analytics Platform
+
+A **multi-tenant B2B SaaS platform** designed to manage projects, investments, employees, clients, investors, analytics, billing, support, and business workflows.
+
+### 🏗️ System & Backend Engineering
+
+- **Multi-tenant B2B SaaS architecture**
+- **Role-Based Access Control**
+- Client / Manager / Employee / Investor / Viewer workflows
+- Project lifecycle management
+- Investment tracking
+- **40+ analytical charts**
+- **Dynamic Gantt charts**
+- Data upload and approval workflows
+- Automated background processing
+- Billing and payment workflows
+- Support system
+- Automatic domain connection
+- **Docker**
+- **Kubernetes**
+- **AWS**
+- **Load Balancing**
+- **CI/CD**
+- **Automated Testing**
+
+### 🔧 Core Technologies
+
+`TypeScript` `Node.js` `NestJS` `PostgreSQL` `Prisma` `Docker` `Kubernetes` `AWS` `CI/CD`
+
+🔗 **[Live Project](https://lawalx-admin-frontend.vercel.app/)**
+
+---
+
+## 🔵 Digital Screen Advertising Platform
+
+A scalable platform for managing **digital advertising screens, content, scheduling, subscriptions, banners, and automated business reports**.
+
+### 🏗️ System & Backend Engineering
+
+- Digital screen management
+- **Full-day scheduling**
+- **Half-day scheduling**
+- **Time-slot scheduling**
+- Dynamic content management
+- Dynamic banner system
+- Advertisement scheduling
+- Content upload and replacement
+- Subscription management
+- **Monthly reporting**
+- **Revenue reporting**
+- Automated reporting workflows
+- Backend APIs
+- Scalable processing architecture
+- Production deployment
+
+### 🔧 Core Technologies
+
+`TypeScript` `Node.js` `NestJS` `PostgreSQL` `Docker` `AWS` `CI/CD`
+
+🔗 **[Live Project](https://lawalax.vercel.app/signin)**
+
+---
+
+# 🧩 System Design Focus
 
 ```text
-Backend Engineering
-├── REST APIs
-├── WebSockets
-├── Authentication
-├── Authorization
-├── RBAC
-├── Validation
-├── Error Handling
-├── API Security
-└── Event-driven Architecture
-
-Architecture
-├── Modular Architecture
-├── Layered Architecture
-├── Service / Repository Pattern
-├── Dependency Injection
-├── Microservices
-├── Event-driven Systems
-├── Distributed Processing
+Scalability
 ├── Horizontal Scaling
-└── Load Balancing
+├── Load Balancing
+├── Stateless Services
+└── Kubernetes
 
-Database Engineering
+Distributed Systems
+├── Message Queues
+├── RabbitMQ
+├── Bull Queue
+├── Producer / Consumer
+├── Background Workers
+└── Asynchronous Processing
+
+Database Systems
 ├── PostgreSQL
 ├── MongoDB
 ├── Redis
-├── Prisma
-├── Database Relationships
 ├── Indexing
 ├── Transactions
 ├── Query Optimization
 └── Data Consistency
 
-Distributed Systems
-├── RabbitMQ
-├── Bull Queue
-├── Producer / Consumer
-├── Background Workers
-├── Asynchronous Processing
-├── Retry Mechanisms
+Reliability
+├── Retry
+├── Timeout
 ├── Idempotency
-├── Caching
-└── Scheduled Jobs
+├── Health Checks
+└── Fault Tolerance
 
 Infrastructure
 ├── Docker
 ├── Kubernetes
 ├── AWS
-├── Nginx
-├── Caddy
-├── GitHub Actions
 ├── CI/CD
-└── Production Deployment
+└── Automated Deployment
