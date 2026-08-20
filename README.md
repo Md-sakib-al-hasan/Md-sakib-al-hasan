@@ -11,7 +11,7 @@ Backend Engineer • System Design • Distributed Systems
 <p>
 <a href="https://github.com/Md-sakib-al-hasan">GitHub</a> •
 <a href="https://www.linkedin.com/in/md-sakib-al-hasan-46942126b">LinkedIn</a> •
-<a href="mailto:mdsakibalhasanprogrammer1@gmail.com">Email</a>
+<a href="mailto:mdsakibalhasanprogrammer1@gmail.com">Email</a> •
 <a href="https://vercel.com/md-sakibs-projects-0c3367a4/portfolio#production-checklist">Portfolio</a>
 </p>
 
